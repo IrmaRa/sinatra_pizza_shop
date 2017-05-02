@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Galindo');
+
+
+body {
+  font-family: "Galindo";
+  font-size: 20px;
+  color: black;
+  background-image: url("http://ollies.ca/wp-content/uploads/2016/01/Ollies-Pizza-Background-3.png");
+  background-attachment: fixed;
+  background-position: center;
+}
+
+a {
+  color: white;
+  background-color: black;
+  font-size: 28px;
+}
